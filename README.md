@@ -14,14 +14,20 @@ The traditionals sewing machines works with the free movement of the textile
 ### **BOM**
 
 ### **Schematic and Wire prototype**
-
+![example](doc/SM_Work_cell.jpg)
+![example](doc/SM_Firmware.jpg)
 ### **Firmware sketch**
 
+![example](doc/SM01.JPG)
+
+![example](doc/SM02.jpg)
+
+![example](doc/SM03.jpg)
 
 **SEWING-ROBOT // HARDWARE I** is a project of **IAAC, Institute for Advanced Architecture of Catalonia**, developed at the Master in Robotics and Advanced Construction in 2020/2021 by:
 
 **Students:** Alberto Browne, Juan E. Ojeda, Orestis Pavlidis
 
-**Faculty:** Angel Munoz
+**Faculty:** Angel Muñoz
 
 **Faculty Assistant:** Matthew Gordon
