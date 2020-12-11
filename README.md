@@ -7,7 +7,7 @@ The hypothesis is to work on a joint that allows to connect large parts by movin
 The traditionals sewing machines works with the free movement of the textile
 |               |                |               |                |
 | ------------- | -------------- | ------------- | -------------- |
-| ![example](doc/SMR_Sewing_singer_1st_patent.jpeg) | ![example](SMR_Sewing_US3745950-drawings-page-2b.png) |  ![example](SMR_Sewing gibbs_rotating_hook.jpg) | ![example](SMR_Gutenberg Position_of_the_hands.jpg) |
+| ![example](doc/SMR_Sewing_singer_1st_patent.jpeg) | ![example](doc/SMR_Sewing_US3745950-drawings-page-2b.png) |  ![example](doc/SMR_Sewing gibbs_rotating_hook.jpg) | ![example](doc/SMR_Gutenberg Position_of_the_hands.jpg) |
 
 ### **Portable Sewing Machine**
 
