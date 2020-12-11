@@ -3,9 +3,11 @@ A sewing robotic effector to explore a dry and flexible connection of rigid mate
 Explore a dry and flexible connection of rigid materials. A joint that allows to connect large parts by moving the robotic arm and not the material.
 The hypothesis is to work on a joint that allows to connect large parts by moving the robotic arm and not the material. The goal to achieve is to explore a new field of connections and joints with traditional systems.
 
-End effector design for the IRB 140 to weave metal shapes on a base.
 ### **Concept**
 The traditionals sewing machines works with the free movement of the textile
+|               |                |               |                |
+| ------------- | -------------- | ------------- | -------------- |
+| ![example](doc/SMR_Sewing_singer_1st_patent.jpeg) | ![example](SMR_Sewing_US3745950-drawings-page-2b.png) |  ![example](SMR_Sewing gibbs_rotating hook.jpg) | ![example](SMR_Gutenberg Position_of_the_hands.jpg) |
 
 ### **Portable Sewing Machine**
 
