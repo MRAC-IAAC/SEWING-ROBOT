@@ -36,12 +36,11 @@ During the manual tests with the machine in the original state, we defined the p
 ![example](doc/SM_flow-chart-hardware.jpg)
 
 ### **Firmware sketch**
-|               |                |               
-| ------------- | -------------- | 
-| ![example](doc/SM01.JPG) | ![example](doc/SM02.jpg) |  
-![example](doc/SM03.jpg) 
-# Workflow:
-src/Sewing01.ino
+* [Arduino code](https://github.com/MRAC-IAAC/SEWING-ROBOT/src/Sewing01.ino)
+
+|               |                |                |             
+| ------------- | -------------- | -------------- | 
+| <img src="doc/SM01.JPG" width="300"> | <img src="doc/SM02.jpg" width="300">  |  <img src="doc/SM03.jpg" width="300">  |
 
 **SEWING-ROBOT // HARDWARE I** is a project of **IAAC, Institute for Advanced Architecture of Catalonia**, developed at the Master in Robotics and Advanced Construction in 2020/2021 by:
 
