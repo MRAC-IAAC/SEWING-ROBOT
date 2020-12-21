@@ -49,7 +49,7 @@ During the manual tests with the machine in the original state, we defined the p
 
 |               |                |                |       
 | ------------- | -------------- | -------------- | 
-| <img src="doc/SM01.JPG" width="300"> | <img src="doc/SM02.jpg" width="300">  |  <img src="doc/SM03.jpg" width="300">  |
+| <img src="doc/SM01.JPG" width="300"> | <img src="doc/SM02.jpg" width="300">  |  <img src="doc/SM03.jpg" height="200">  |
 
 [Workflow video](https://youtu.be/R_Z0p0leJvI)
 
