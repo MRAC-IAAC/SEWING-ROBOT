@@ -30,17 +30,18 @@ During the manual tests with the machine in the original state, we defined the p
 ### **BOM**
 
 ### **Schematic and Wire prototype**
-|               |                |
-| ------------- | -------------- |
-| ![example](doc/SM_Work_cell.jpg) | ![example](doc/SM_Firmware.jpg) | 
-![example](doc/SM_flow-chart-hardware.jpg)
+|               |                |                |
+| ------------- | -------------- | -------------- |
+| <img src="doc/SM_Work_cell.jpg" width="300">  | <img src="doc/SM_Firmware.jpg" width="300">  | <img src="doc/SM_flow-chart-hardware.jpg" width="300"> |
 
 ### **Firmware sketch**
 * [Arduino code](https://github.com/MRAC-IAAC/SEWING-ROBOT/src/Sewing01.ino)
 
-|               |                |                |             
+|               |                |                |       
 | ------------- | -------------- | -------------- | 
 | <img src="doc/SM01.JPG" width="300"> | <img src="doc/SM02.jpg" width="300">  |  <img src="doc/SM03.jpg" width="300">  |
+
+[Workflow video](https://youtu.be/R_Z0p0leJvI)
 
 **SEWING-ROBOT // HARDWARE I** is a project of **IAAC, Institute for Advanced Architecture of Catalonia**, developed at the Master in Robotics and Advanced Construction in 2020/2021 by:
 
