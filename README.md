@@ -8,7 +8,7 @@ According to the traditional techniques for sewing, the machine is stable and th
 
 |               1 |               2 |              3 |               4 |
 | -------------- | -------------- | ------------- | -------------- |
-| ![example](doc/SMR_Sewing_singer_1st_patent.jpeg) | <img src="doc/SMR_Sewing_US3745950-drawings-page-2b.png" width="300"> |  ![example](doc/SMR_Sewing%20gibbs_rotating_%20hook.jpg) | ![example](doc/SMR_Gutenberg%20Position_of_the_hands.jpg) |
+| <img src="doc/SMR_Sewing_singer_1st_patent.jpeg" width="300"> | <img src="doc/SMR_Sewing_US3745950-drawings-page-2b.png" width="300"> |  ![example](doc/SMR_Sewing%20gibbs_rotating_%20hook.jpg) | ![example](doc/SMR_Gutenberg%20Position_of_the_hands.jpg) |
 
 **1. First sewing machine, patented 1851**
 Wood engraving image of Isaac Merrit Singer's Universal Images Group / Getty Images. At Latson, Jennifer. The Invention That Spawned a Fashion Revolution. Time Magazine.  August 12 2015 https://time.com/3985665/sewing-machine-invented/
@@ -40,9 +40,6 @@ During the manual tests with the machine in the original state, we defined the p
 | ------------- | -------------- | 
 | ![example](doc/SM01.JPG) | ![example](doc/SM02.jpg) |  
 ![example](doc/SM03.jpg) 
-
-
-
 
 
 
