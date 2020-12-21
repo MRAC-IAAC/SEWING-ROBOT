@@ -4,7 +4,7 @@ Explore a dry and flexible connection of rigid materials. A joint that allows to
 The hypothesis is to work on a joint that allows to connect large parts by moving the robotic arm and not the material. The goal to achieve is to explore a new field of connections and joints with traditional systems.
 
 ### **Concept**
-The traditionals sewing machines works with the free movement of the textile
+According to the traditional techniques for sewing, the machine is stable and the material is moving. In our case the process is inverted, as the machine is moving freely by the robotic arm and the material is held by a support structure.
 
 |               1 |               2 |              3 |               4 |
 | -------------- | -------------- | ------------- | -------------- |
@@ -24,6 +24,7 @@ https://www.gutenberg.org/files/20776/20776-h/chapter_9.html
 
 
 ### **Portable Sewing Machine**
+During the manual tests with the machine in the original state, we defined the parts that need to be modified. Since the machine will be controlled by the arduino we changed the on/off button with a digital signal from the arduino.
 ![example](doc/SM_portable_sewing_machine_parts.jpg)
 
 ### **BOM**
