@@ -28,6 +28,16 @@ During the manual tests with the machine in the original state, we defined the p
 ![example](doc/SM_portable_sewing_machine_parts.jpg)
 
 ### **BOM**
+| **Part #** | **Part Name** | **Quantity** | **Description** |
+| ------------- | ------------- | ------------- | ------------- |
+| 1  | Portable Sewing Machine  | 1  |  6 volt portable sewing machine  |
+| 2  | Arduino Board  | 1  | Arduino Uno  |
+| 3  | Breadboard  | 1  | Electronic circuit builderr  |
+| 4  | Mosfet Module  | 1  | Arduino Metal Oxide Semiconductor Field Effect Transistor  |
+| 5  | Optocoupler  | 1  | Electronic component to transfer signals from ABB to Arduino board   |
+| 6  | Power Supply  | 1  | 220 volt to 6 volt transformer  |
+| 7  | Textile  | 1  | Test materials  |
+| 8  | Textile Support | 1  | MDF board to laser cut  |
 
 ### **Schematic and Wire prototype**
 |               |                |                |
