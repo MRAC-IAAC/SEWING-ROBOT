@@ -40,8 +40,8 @@ During the manual tests with the machine in the original state, we defined the p
 | ------------- | -------------- | 
 | ![example](doc/SM01.JPG) | ![example](doc/SM02.jpg) |  
 ![example](doc/SM03.jpg) 
-
-
+# Workflow:
+src/Sewing01.ino
 
 **SEWING-ROBOT // HARDWARE I** is a project of **IAAC, Institute for Advanced Architecture of Catalonia**, developed at the Master in Robotics and Advanced Construction in 2020/2021 by:
 
